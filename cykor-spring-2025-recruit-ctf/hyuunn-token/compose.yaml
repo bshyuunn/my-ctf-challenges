@@ -1,0 +1,14 @@
+services:
+  hyuunn-token:
+    build: ./build/src
+    ports:
+      - "31338:31338"
+      - "8546:8546"
+    restart: unless-stopped
+    environment:
+      - FLAG=CyKor{FAKE_FLAG}
+      - PORT=31338
+      - HTTP_PORT=8546
+      - PUBLIC_IP=localhost
+      - SHARED_SECRET=47066539167276956766098200939677720952863069100758808950316570929135279551684 # @todo
+      - ENV=production
