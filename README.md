@@ -1,4 +1,4 @@
-# my-ctf-challenge
+# my-ctf-challenges
 CTF challenges created by @bshyuunn
 
 | Challenge Name    | CTF Event                     |  Category       | Solves |    Writeup  | Link                 |
