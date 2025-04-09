@@ -5,7 +5,7 @@ After the CTF ended, this challenge was published on DreamHack. You can try it o
 - https://dreamhack.io/wargame/challenges/1856
 
 ## Description
-Your goal is to drain all ETH from the Hyuunn Token Contract. (This challenge works on the Shanghai hard fork.)
+Your goal is to drain all ETH from the Hyuunn Token Contract. (This challenge works on the Shanghai hard fork.) (Two solutions exist)
 
 ## Launch the challenge server
 ```
